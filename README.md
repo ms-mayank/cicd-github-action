@@ -2,7 +2,7 @@
 ### STEPS
 1. Create repo and other files.
 2. Using pytest to test the unit test cases.
-3. test folder - pytest looks for test folder to execute all the test cases and inside the test folder all the files should be start with test_<file_name>.
+3. test folder - pytest looks for test folder to execute all the test cases and inside the test folder all the files should be start with "test_<file_name>".
 4. Commit and push repo.
 5. Using Github Action to automate this unit testing i.e. whenever there is any action as such code is pushed to repo then run an action to test these cases.
 
@@ -11,4 +11,4 @@
 7. define all the actions in yml file.
 
 ### Summary 
-Github Action is just a yml file which have all the action defined that one the particular action what next should happen. Like if a code is pushed/merged then all the test cases should be checked automatically without human intervention.
+Github Action is just a yml file which have all the action; defining that on the particular action what next should happen. Like if a code is pushed/merged then all the test cases should be checked automatically without human intervention.
