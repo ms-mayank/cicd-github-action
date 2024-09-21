@@ -8,3 +8,4 @@
 
 ### Github Action 
 6. create .github folder > workflows folder > yml file
+7. define all the actions in yml file.
