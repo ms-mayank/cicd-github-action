@@ -9,3 +9,6 @@
 ### Github Action 
 6. create .github folder > workflows folder > yml file
 7. define all the actions in yml file.
+
+### Summary 
+Github Action is just a yml file which have all the action defined that one the particular action what next should happen. Like if a code is pushed/merged then all the test cases should be checked automatically without human intervention.
